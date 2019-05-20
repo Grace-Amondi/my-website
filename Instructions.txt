@@ -1,0 +1,11 @@
+1. Use the lab manual attached to gainnan understanding of static web design.
+
+2. Review the reference theoretical e-resources mentioned in the guide and do a one-page max. report on section 1.4
+
+3. Follow along the guide. Each time you create a website, store all static files in a folder, copy the folder to C:/inetpub/wwroot and access it via a bowser. e.g http://my-ip-address/folder/file.html.
+
+3. Your html file must be styled using both local, internal and external CSS.
+
+4. You can create as many websites as you wish for your home work. However, for grading, I need link to a website that has at least four interlinked web pages i.e. Home, About Me, My CV, My Photos. 
+
+5. The website must have all the components mentioned in section 1.5. Use a table to populate your CV.
